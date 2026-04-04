@@ -31,8 +31,8 @@ html{
 --sch-bg-table-1:#ea6153;
 --sch-bg-table-2:#27ae60;
 --sch-bg-table-3:#2980b9;
---sch-icon-fontAwesome-pro:'remixicon';
---sch-icon-fontAwesome-brands:'remixicon';
+--sch-icon-fontAwesome-pro:'Font Awesome 6 Free';
+--sch-icon-fontAwesome-brands:'Font Awesome 6 Brands';
 --sch-serach-button-active:#f1b20c;
 --sch-dataschool-box-shadow:0 3px 5px rgb(70 70 70 / 72%);
 --sch-scinfo-comments-after:#1e57b9;
@@ -50,6 +50,18 @@ html{
 }
 @font-face{font-family:'Open Sans';font-style:italic;font-weight:300;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:400;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:500;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:600;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:700;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:800;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVQUx6EQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4kY1U2xQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4kY1U2xQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:500;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4kY1U2xQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4kY1U2xQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4kY1U2xQ.woff) format('woff')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:800;font-stretch:normal;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4kY1U2xQ.woff) format('woff')}@font-face{font-family:Merriweather;font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXcf8hPvhPQ.woff) format('woff')}@font-face{font-family:Merriweather;font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eSZKdeX3rg.woff) format('woff')}@font-face{font-family:Merriweather;font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wsf8hPvhPQ.woff) format('woff')}@font-face{font-family:Merriweather;font-style:italic;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWMf8hPvhPQ.woff) format('woff')}@font-face{font-family:Merriweather;font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRpXM39pvk.woff) format('woff')}@font-face{font-family:Merriweather;font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5OeCxLV-c.woff) format('woff')}@font-face{font-family:Merriweather;font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNpXM39pvk.woff) format('woff')}@font-face{font-family:Merriweather;font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFpXM39pvk.woff) format('woff')}@font-face{font-family:Archivo;font-style:normal;font-weight:300;font-stretch:normal;src:url(https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNp8x1uJ0o.woff) format('woff')}@font-face{font-family:Archivo;font-style:normal;font-weight:500;font-stretch:normal;src:url(https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNp8x1uJ0o.woff) format('woff')}@font-face{font-family:Archivo;font-style:normal;font-weight:800;font-stretch:normal;src:url(https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRp8x1uJ0o.woff) format('woff')}
 html {
+
+.fa-solid, .fas {
+    font-weight: 900;
+}
+.fa-regular, .far {
+    font-weight: 400;
+}
+.fa-brands, .fab {
+    font-weight: 400;
+}
+
+
 font-family: sans-serif;
 -webkit-text-size-adjust: 100%;
 -ms-text-size-adjust: 100%;
@@ -582,10 +594,10 @@ top: 33%
 color: var(--sch-title-color-white)
 }
 .owl-prev:before {
-content: "\ea64"
+content: "\f053"
 }
 .owl-next:before {
-content: "\ea6e"
+content: "\f054"
 }
 .owl-next:hover,
 .owl-prev:hover {
@@ -1017,7 +1029,7 @@ font-weight: 400;
 margin: 0 0 0 5px
 }
 #main-menu ul>li>ul>li.has-sub>a:after {
-content: '\ea6e';
+content: '\f054';
 float: right;
 margin: 0
 }
@@ -1061,7 +1073,7 @@ content: "\f0c9"
 }
 .alert-del-btn:before,
 .nav-active .slide-menu-toggle:before {
-content: "\eb98"
+content: "\f00d"
 }
 .mobile-menu {
 position: relative
@@ -1103,7 +1115,7 @@ color: #eee;
 cursor: pointer
 }
 .mobile-menu ul li.has-sub .submenu-toggle:after {
-content: '\ea6e';
+content: '\f054';
 font-family: var(--sch-icon-fontAwesome-pro);
 font-weight: 400;
 float: right;
@@ -1753,7 +1765,7 @@ color: var(--sch-teks-color-yellow)
 cursor: pointer
 }
 .share-links li.share-icon span:before {
-content: '\f0fe';
+content: '\f064';
 font-family: var(--sch-icon-fontAwesome-pro);
 font-weight: 900
 }
@@ -1855,7 +1867,7 @@ font-style: normal
 content: "\ecbc"
 }
 .social .copy-link:before {
-content: "\eeb2";font-family: remixicon
+content: "\f0c5";font-family: remixicon
 }
 .social .twitter a:before,
 .social .x a:before {
