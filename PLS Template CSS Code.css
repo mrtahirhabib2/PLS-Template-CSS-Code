@@ -1009,7 +1009,7 @@ color: var(--sch-teks-color-yellow)
 border-bottom: 0
 }
 #main-menu ul>li.has-sub>a:after {
-content: '\ea4e';
+content: '\f107';
 float: right;
 font-family: var(--sch-icon-fontAwesome-pro);
 font-size: 10px;
